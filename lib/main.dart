@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
     return Center(child: new Text("Testing Git", textDirection: TextDirection.ltr,
     style: TextStyle(
       color: Colors.cyanAccent,
+      fontSize: 30,
     ),
     ));
 
